@@ -15,6 +15,8 @@ add_message_files(
   LegServoState.msg
   LegServoStates.msg
   Movement.msg
+  SafetyState.msg
+  SafetyStates.msg
   )
 
 generate_messages(
